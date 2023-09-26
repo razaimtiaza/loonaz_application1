@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709964381097",
+    "project_id": "ring-tone-c0d31",
+    "storage_bucket": "ring-tone-c0d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709964381097:android:a4c87fe80eecbf248262b8",
+        "android_client_info": {
+          "package_name": "com.example.loonaz_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709964381097-p972ccfr268r9rsjer7nm0rtd50idsnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loonaz_application",
+            "certificate_hash": "7b67192bb7604ce01161008ccaef1cee669ea812"
+          }
+        },
+        {
+          "client_id": "709964381097-utqei5jc5smo69rk9442lo6mq6ikj1bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXl40rX1uzMMzWfYRDGBERrohxa6zPPmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709964381097-0vnmf0bvr9o0d53k6m3ae8cm4mjl5ta3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
